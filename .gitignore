@@ -1,7 +1,8 @@
 .gradle
 /build/
-**/.idea
+**/.idea/
 **/.DS_Store
+/run/
 
 # Ignore Gradle GUI config
 gradle-app.setting
